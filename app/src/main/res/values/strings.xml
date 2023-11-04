@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Class Group Maker</string>
+    <string name="enter_name_person">Enter comma , after Each Name</string>
+    <string name="generate_group">Generate Groups</string>
+</resources>
